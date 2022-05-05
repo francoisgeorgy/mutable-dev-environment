@@ -31,6 +31,6 @@
 
 	"containerEnv": {
 		// Comment out and edit to clone your github repository instead.
-		// "USER_GITHUB_URL": "https://github.com/your-account-name/eurorack.git",
+		"USER_GITHUB_URL": "https://github.com/francoisgeorgy/eurorack.git",
 	}
 }
